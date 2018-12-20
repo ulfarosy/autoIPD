@@ -2,8 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time, random
 
-USERNAME = '' # insert your integra username here
-PASSWORD = '' # insert your integra password here
+USERNAME = '2416100007' # insert your integra username here
+PASSWORD = 'Makanmakan16' # insert your integra password here
 SCORE_RANGE = (4,4) # (A, B) between A and B, inclusive
 
 def choose(driver):
